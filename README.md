@@ -2,7 +2,7 @@
 
 ### 🏆 Certification & Verification
 **Status:** Completed & Awarded at GameXcelerate Hackathon (AIC RAISE).
-**Verification:** See attached `Project_Certificate_Evidence.jpg` in this repository.
+**Verification:** See attached `GameXcelerate_Project_Completion.jpg` in this repository.
 
 ---
 
